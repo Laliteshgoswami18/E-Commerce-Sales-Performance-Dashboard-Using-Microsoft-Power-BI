@@ -77,3 +77,7 @@ This dashboard is useful for business owners, managers, analysts, and decision-m
 
 **Turning raw e-commerce data into actionable business intelligence using Power BI.**
 
+## 🖼 Dashboard Screenshots
+
+> 
+
