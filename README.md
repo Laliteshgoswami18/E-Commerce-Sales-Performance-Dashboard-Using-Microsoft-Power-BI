@@ -79,11 +79,11 @@ This dashboard is useful for business owners, managers, analysts, and decision-m
 
 ## 🖼 Dashboard Screenshots
 
-> https://github.com/Laliteshgoswami18/E-Commerce-Sales-Performance-Dashboard-Using-Microsoft-Power-BI/blob/main/E-Commerce%20Sales%20Dashobard.JPG
 
 
-### 📥 Download Power BI Dashboard (.pbix)
 
-👉 https://drive.google.com/drive/u/1/home
+
+
+
 
 
