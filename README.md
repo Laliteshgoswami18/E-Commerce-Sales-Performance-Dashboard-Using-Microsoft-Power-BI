@@ -1,6 +1,6 @@
 # Interactive E-Commerce Sales Dashboard-Using-Microsoft-Power-BI
 
-# 📊 E-Commerce Sales Dashboard | Power BI
+# 📊 E-Commerce Sales Dashboard | Microsoft Power BI |
 
 > Professional Business Intelligence Dashboard for E-Commerce Sales Analysis
 
